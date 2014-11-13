@@ -1,0 +1,15 @@
+D:\Dropbox\BrandPOP\Cineplex\Cineplex.Domain.Product\bin\Debug\Cineplex.Domain.Product.dll
+D:\Dropbox\BrandPOP\Cineplex\Cineplex.Domain.Product\bin\Debug\Cineplex.Domain.Product.pdb
+D:\Dropbox\BrandPOP\Cineplex\Cineplex.Domain.Product\bin\Debug\FlyweightObjects.NET.dll
+D:\Dropbox\BrandPOP\Cineplex\Cineplex.Domain.Product\bin\Debug\SimpleRest.Core.dll
+D:\Dropbox\BrandPOP\Cineplex\Cineplex.Domain.Product\bin\Debug\FlyweightObjects.NET.xml
+D:\Dropbox\BrandPOP\Cineplex\Cineplex.Domain.Product\obj\Debug\Cineplex.Domain.Product.dll
+D:\Dropbox\BrandPOP\Cineplex\Cineplex.Domain.Product\obj\Debug\Cineplex.Domain.Product.pdb
+C:\Users\eric_brand\Dropbox\BrandPOP\Cineplex\Cineplex.Domain.Product\bin\Debug\Cineplex.Domain.Product.dll
+C:\Users\eric_brand\Dropbox\BrandPOP\Cineplex\Cineplex.Domain.Product\bin\Debug\Cineplex.Domain.Product.pdb
+C:\Users\eric_brand\Dropbox\BrandPOP\Cineplex\Cineplex.Domain.Product\bin\Debug\FlyweightObjects.NET.dll
+C:\Users\eric_brand\Dropbox\BrandPOP\Cineplex\Cineplex.Domain.Product\bin\Debug\SimpleRest.Core.dll
+C:\Users\eric_brand\Dropbox\BrandPOP\Cineplex\Cineplex.Domain.Product\bin\Debug\FlyweightObjects.NET.xml
+C:\Users\eric_brand\Dropbox\BrandPOP\Cineplex\Cineplex.Domain.Product\obj\Debug\Cineplex.Domain.Product.csprojResolveAssemblyReference.cache
+C:\Users\eric_brand\Dropbox\BrandPOP\Cineplex\Cineplex.Domain.Product\obj\Debug\Cineplex.Domain.Product.dll
+C:\Users\eric_brand\Dropbox\BrandPOP\Cineplex\Cineplex.Domain.Product\obj\Debug\Cineplex.Domain.Product.pdb

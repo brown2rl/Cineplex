@@ -1,0 +1,12 @@
+D:\Dropbox\BrandPOP\Cineplex\Cineplex.Domain.Fulfillment\bin\Debug\Cineplex.Domain.Fulfillment.dll
+D:\Dropbox\BrandPOP\Cineplex\Cineplex.Domain.Fulfillment\bin\Debug\Cineplex.Domain.Fulfillment.pdb
+D:\Dropbox\BrandPOP\Cineplex\Cineplex.Domain.Fulfillment\bin\Debug\FlyweightObjects.NET.dll
+D:\Dropbox\BrandPOP\Cineplex\Cineplex.Domain.Fulfillment\bin\Debug\FlyweightObjects.NET.xml
+D:\Dropbox\BrandPOP\Cineplex\Cineplex.Domain.Fulfillment\obj\Debug\Cineplex.Domain.Fulfillment.dll
+D:\Dropbox\BrandPOP\Cineplex\Cineplex.Domain.Fulfillment\obj\Debug\Cineplex.Domain.Fulfillment.pdb
+C:\Users\eric_brand\Dropbox\BrandPOP\Cineplex\Cineplex.Domain.Fulfillment\bin\Debug\Cineplex.Domain.Fulfillment.dll
+C:\Users\eric_brand\Dropbox\BrandPOP\Cineplex\Cineplex.Domain.Fulfillment\bin\Debug\Cineplex.Domain.Fulfillment.pdb
+C:\Users\eric_brand\Dropbox\BrandPOP\Cineplex\Cineplex.Domain.Fulfillment\bin\Debug\FlyweightObjects.NET.dll
+C:\Users\eric_brand\Dropbox\BrandPOP\Cineplex\Cineplex.Domain.Fulfillment\bin\Debug\FlyweightObjects.NET.xml
+C:\Users\eric_brand\Dropbox\BrandPOP\Cineplex\Cineplex.Domain.Fulfillment\obj\Debug\Cineplex.Domain.Fulfillment.dll
+C:\Users\eric_brand\Dropbox\BrandPOP\Cineplex\Cineplex.Domain.Fulfillment\obj\Debug\Cineplex.Domain.Fulfillment.pdb

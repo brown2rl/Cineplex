@@ -1,0 +1,85 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.30723.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Cineplex.Common", "Cineplex.Common\Cineplex.Common.csproj", "{DE03976B-BC68-4885-B612-EE01564060AA}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Services", "Services", "{3C38D6A1-6DD8-45DF-AC7D-D3D22ED63FC8}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Domain", "Domain", "{6AAEFAF0-9B85-4F65-9B05-414FBB251572}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Cineplex.Domain.Commerce", "Cineplex.Domain.Commerce\Cineplex.Domain.Commerce.csproj", "{B17D45C2-8DCC-47AE-A8AF-8B6F9ADC764F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Cineplex.Domain.Customer", "Cineplex.Domain.Customer\Cineplex.Domain.Customer.csproj", "{6F7A649C-637E-4E40-884C-044585EBF5CC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Cineplex.Domain.Fulfillment", "Cineplex.Domain.Fulfillment\Cineplex.Domain.Fulfillment.csproj", "{281B7550-8948-43A9-A9C3-028681EA4169}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Cineplex.Domain.Product", "Cineplex.Domain.Product\Cineplex.Domain.Product.csproj", "{3E9C9D4D-01D7-47A3-9B20-1F5532096B14}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Cineplex.Services.Customer", "Cineplex.Services.Customer\Cineplex.Services.Customer.csproj", "{4D94C014-8410-42DF-876C-042023D6F99E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Cineplex.Services.Product", "Cineplex.Services.Product\Cineplex.Services.Product.csproj", "{6A07A843-BE56-43C1-A32C-BF8A9FD3EFB0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Cineplex.Services.Commerce", "Cineplex.Services.Commerce\Cineplex.Services.Commerce.csproj", "{09D261D7-1DE2-48D4-8F31-2B3B16D7891B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Cineplex.Services.Fulfillment", "Cineplex.Services.Fulfillment\Cineplex.Services.Fulfillment.csproj", "{FF08F053-5619-49A1-8C4F-9550FC29E296}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DE03976B-BC68-4885-B612-EE01564060AA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DE03976B-BC68-4885-B612-EE01564060AA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DE03976B-BC68-4885-B612-EE01564060AA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DE03976B-BC68-4885-B612-EE01564060AA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B17D45C2-8DCC-47AE-A8AF-8B6F9ADC764F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B17D45C2-8DCC-47AE-A8AF-8B6F9ADC764F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B17D45C2-8DCC-47AE-A8AF-8B6F9ADC764F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B17D45C2-8DCC-47AE-A8AF-8B6F9ADC764F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6F7A649C-637E-4E40-884C-044585EBF5CC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6F7A649C-637E-4E40-884C-044585EBF5CC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6F7A649C-637E-4E40-884C-044585EBF5CC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6F7A649C-637E-4E40-884C-044585EBF5CC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{281B7550-8948-43A9-A9C3-028681EA4169}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{281B7550-8948-43A9-A9C3-028681EA4169}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{281B7550-8948-43A9-A9C3-028681EA4169}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{281B7550-8948-43A9-A9C3-028681EA4169}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3E9C9D4D-01D7-47A3-9B20-1F5532096B14}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3E9C9D4D-01D7-47A3-9B20-1F5532096B14}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3E9C9D4D-01D7-47A3-9B20-1F5532096B14}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3E9C9D4D-01D7-47A3-9B20-1F5532096B14}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4D94C014-8410-42DF-876C-042023D6F99E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4D94C014-8410-42DF-876C-042023D6F99E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4D94C014-8410-42DF-876C-042023D6F99E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4D94C014-8410-42DF-876C-042023D6F99E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6A07A843-BE56-43C1-A32C-BF8A9FD3EFB0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6A07A843-BE56-43C1-A32C-BF8A9FD3EFB0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6A07A843-BE56-43C1-A32C-BF8A9FD3EFB0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6A07A843-BE56-43C1-A32C-BF8A9FD3EFB0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{09D261D7-1DE2-48D4-8F31-2B3B16D7891B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{09D261D7-1DE2-48D4-8F31-2B3B16D7891B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{09D261D7-1DE2-48D4-8F31-2B3B16D7891B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{09D261D7-1DE2-48D4-8F31-2B3B16D7891B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FF08F053-5619-49A1-8C4F-9550FC29E296}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FF08F053-5619-49A1-8C4F-9550FC29E296}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FF08F053-5619-49A1-8C4F-9550FC29E296}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FF08F053-5619-49A1-8C4F-9550FC29E296}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{DE03976B-BC68-4885-B612-EE01564060AA} = {6AAEFAF0-9B85-4F65-9B05-414FBB251572}
+		{B17D45C2-8DCC-47AE-A8AF-8B6F9ADC764F} = {6AAEFAF0-9B85-4F65-9B05-414FBB251572}
+		{6F7A649C-637E-4E40-884C-044585EBF5CC} = {6AAEFAF0-9B85-4F65-9B05-414FBB251572}
+		{281B7550-8948-43A9-A9C3-028681EA4169} = {6AAEFAF0-9B85-4F65-9B05-414FBB251572}
+		{3E9C9D4D-01D7-47A3-9B20-1F5532096B14} = {6AAEFAF0-9B85-4F65-9B05-414FBB251572}
+		{4D94C014-8410-42DF-876C-042023D6F99E} = {3C38D6A1-6DD8-45DF-AC7D-D3D22ED63FC8}
+		{6A07A843-BE56-43C1-A32C-BF8A9FD3EFB0} = {3C38D6A1-6DD8-45DF-AC7D-D3D22ED63FC8}
+		{09D261D7-1DE2-48D4-8F31-2B3B16D7891B} = {3C38D6A1-6DD8-45DF-AC7D-D3D22ED63FC8}
+		{FF08F053-5619-49A1-8C4F-9550FC29E296} = {3C38D6A1-6DD8-45DF-AC7D-D3D22ED63FC8}
+	EndGlobalSection
+EndGlobal
