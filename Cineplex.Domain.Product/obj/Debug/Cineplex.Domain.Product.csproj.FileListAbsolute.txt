@@ -13,3 +13,10 @@ C:\Users\eric_brand\Dropbox\BrandPOP\Cineplex\Cineplex.Domain.Product\bin\Debug\
 C:\Users\eric_brand\Dropbox\BrandPOP\Cineplex\Cineplex.Domain.Product\obj\Debug\Cineplex.Domain.Product.csprojResolveAssemblyReference.cache
 C:\Users\eric_brand\Dropbox\BrandPOP\Cineplex\Cineplex.Domain.Product\obj\Debug\Cineplex.Domain.Product.dll
 C:\Users\eric_brand\Dropbox\BrandPOP\Cineplex\Cineplex.Domain.Product\obj\Debug\Cineplex.Domain.Product.pdb
+C:\Users\eric_brand\Source\Repos\Cineplex\Cineplex.Domain.Product\bin\Debug\Cineplex.Domain.Product.dll
+C:\Users\eric_brand\Source\Repos\Cineplex\Cineplex.Domain.Product\bin\Debug\Cineplex.Domain.Product.pdb
+C:\Users\eric_brand\Source\Repos\Cineplex\Cineplex.Domain.Product\bin\Debug\FlyweightObjects.NET.dll
+C:\Users\eric_brand\Source\Repos\Cineplex\Cineplex.Domain.Product\bin\Debug\SimpleRest.Core.dll
+C:\Users\eric_brand\Source\Repos\Cineplex\Cineplex.Domain.Product\obj\Debug\Cineplex.Domain.Product.csprojResolveAssemblyReference.cache
+C:\Users\eric_brand\Source\Repos\Cineplex\Cineplex.Domain.Product\obj\Debug\Cineplex.Domain.Product.dll
+C:\Users\eric_brand\Source\Repos\Cineplex\Cineplex.Domain.Product\obj\Debug\Cineplex.Domain.Product.pdb

@@ -11,3 +11,9 @@ C:\Users\eric_brand\Dropbox\BrandPOP\Cineplex\Cineplex.Domain.Customer\bin\Debug
 C:\Users\eric_brand\Dropbox\BrandPOP\Cineplex\Cineplex.Domain.Customer\bin\Debug\FlyweightObjects.NET.xml
 C:\Users\eric_brand\Dropbox\BrandPOP\Cineplex\Cineplex.Domain.Customer\obj\Debug\Cineplex.Domain.Customer.dll
 C:\Users\eric_brand\Dropbox\BrandPOP\Cineplex\Cineplex.Domain.Customer\obj\Debug\Cineplex.Domain.Customer.pdb
+C:\Users\eric_brand\Source\Repos\Cineplex\Cineplex.Domain.Customer\bin\Debug\Cineplex.Domain.Customer.dll
+C:\Users\eric_brand\Source\Repos\Cineplex\Cineplex.Domain.Customer\bin\Debug\Cineplex.Domain.Customer.pdb
+C:\Users\eric_brand\Source\Repos\Cineplex\Cineplex.Domain.Customer\bin\Debug\FlyweightObjects.NET.dll
+C:\Users\eric_brand\Source\Repos\Cineplex\Cineplex.Domain.Customer\obj\Debug\Cineplex.Domain.Customer.csprojResolveAssemblyReference.cache
+C:\Users\eric_brand\Source\Repos\Cineplex\Cineplex.Domain.Customer\obj\Debug\Cineplex.Domain.Customer.dll
+C:\Users\eric_brand\Source\Repos\Cineplex\Cineplex.Domain.Customer\obj\Debug\Cineplex.Domain.Customer.pdb

@@ -13,3 +13,11 @@ C:\Users\eric_brand\Dropbox\BrandPOP\Cineplex\Cineplex.Domain.Commerce\bin\Debug
 C:\Users\eric_brand\Dropbox\BrandPOP\Cineplex\Cineplex.Domain.Commerce\obj\Debug\Cineplex.Domain.Commerce.csprojResolveAssemblyReference.cache
 C:\Users\eric_brand\Dropbox\BrandPOP\Cineplex\Cineplex.Domain.Commerce\obj\Debug\Cineplex.Domain.Commerce.dll
 C:\Users\eric_brand\Dropbox\BrandPOP\Cineplex\Cineplex.Domain.Commerce\obj\Debug\Cineplex.Domain.Commerce.pdb
+C:\Users\eric_brand\Source\Repos\Cineplex\Cineplex.Domain.Commerce\bin\Debug\Cineplex.Domain.Commerce.dll
+C:\Users\eric_brand\Source\Repos\Cineplex\Cineplex.Domain.Commerce\bin\Debug\Cineplex.Domain.Commerce.pdb
+C:\Users\eric_brand\Source\Repos\Cineplex\Cineplex.Domain.Commerce\bin\Debug\FlyweightObjects.NET.dll
+C:\Users\eric_brand\Source\Repos\Cineplex\Cineplex.Domain.Commerce\bin\Debug\Newtonsoft.Json.dll
+C:\Users\eric_brand\Source\Repos\Cineplex\Cineplex.Domain.Commerce\bin\Debug\Newtonsoft.Json.xml
+C:\Users\eric_brand\Source\Repos\Cineplex\Cineplex.Domain.Commerce\obj\Debug\Cineplex.Domain.Commerce.csprojResolveAssemblyReference.cache
+C:\Users\eric_brand\Source\Repos\Cineplex\Cineplex.Domain.Commerce\obj\Debug\Cineplex.Domain.Commerce.dll
+C:\Users\eric_brand\Source\Repos\Cineplex\Cineplex.Domain.Commerce\obj\Debug\Cineplex.Domain.Commerce.pdb

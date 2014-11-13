@@ -14,3 +14,13 @@ C:\Users\eric_brand\Dropbox\BrandPOP\Cineplex\Cineplex.Common\bin\Debug\System.N
 C:\Users\eric_brand\Dropbox\BrandPOP\Cineplex\Cineplex.Common\obj\Debug\Cineplex.Common.csprojResolveAssemblyReference.cache
 C:\Users\eric_brand\Dropbox\BrandPOP\Cineplex\Cineplex.Common\obj\Debug\Cineplex.Common.dll
 C:\Users\eric_brand\Dropbox\BrandPOP\Cineplex\Cineplex.Common\obj\Debug\Cineplex.Common.pdb
+C:\Users\eric_brand\Source\Repos\Cineplex\Cineplex.Common\bin\Debug\Cineplex.Common.dll.config
+C:\Users\eric_brand\Source\Repos\Cineplex\Cineplex.Common\bin\Debug\Cineplex.Common.dll
+C:\Users\eric_brand\Source\Repos\Cineplex\Cineplex.Common\bin\Debug\Cineplex.Common.pdb
+C:\Users\eric_brand\Source\Repos\Cineplex\Cineplex.Common\bin\Debug\FlyweightObjects.NET.dll
+C:\Users\eric_brand\Source\Repos\Cineplex\Cineplex.Common\bin\Debug\Newtonsoft.Json.dll
+C:\Users\eric_brand\Source\Repos\Cineplex\Cineplex.Common\bin\Debug\System.Net.Http.Formatting.dll
+C:\Users\eric_brand\Source\Repos\Cineplex\Cineplex.Common\bin\Debug\Newtonsoft.Json.xml
+C:\Users\eric_brand\Source\Repos\Cineplex\Cineplex.Common\bin\Debug\System.Net.Http.Formatting.xml
+C:\Users\eric_brand\Source\Repos\Cineplex\Cineplex.Common\obj\Debug\Cineplex.Common.dll
+C:\Users\eric_brand\Source\Repos\Cineplex\Cineplex.Common\obj\Debug\Cineplex.Common.pdb

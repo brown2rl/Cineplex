@@ -10,3 +10,9 @@ C:\Users\eric_brand\Dropbox\BrandPOP\Cineplex\Cineplex.Domain.Fulfillment\bin\De
 C:\Users\eric_brand\Dropbox\BrandPOP\Cineplex\Cineplex.Domain.Fulfillment\bin\Debug\FlyweightObjects.NET.xml
 C:\Users\eric_brand\Dropbox\BrandPOP\Cineplex\Cineplex.Domain.Fulfillment\obj\Debug\Cineplex.Domain.Fulfillment.dll
 C:\Users\eric_brand\Dropbox\BrandPOP\Cineplex\Cineplex.Domain.Fulfillment\obj\Debug\Cineplex.Domain.Fulfillment.pdb
+C:\Users\eric_brand\Source\Repos\Cineplex\Cineplex.Domain.Fulfillment\bin\Debug\Cineplex.Domain.Fulfillment.dll
+C:\Users\eric_brand\Source\Repos\Cineplex\Cineplex.Domain.Fulfillment\bin\Debug\Cineplex.Domain.Fulfillment.pdb
+C:\Users\eric_brand\Source\Repos\Cineplex\Cineplex.Domain.Fulfillment\bin\Debug\FlyweightObjects.NET.dll
+C:\Users\eric_brand\Source\Repos\Cineplex\Cineplex.Domain.Fulfillment\obj\Debug\Cineplex.Domain.Fulfillment.csprojResolveAssemblyReference.cache
+C:\Users\eric_brand\Source\Repos\Cineplex\Cineplex.Domain.Fulfillment\obj\Debug\Cineplex.Domain.Fulfillment.dll
+C:\Users\eric_brand\Source\Repos\Cineplex\Cineplex.Domain.Fulfillment\obj\Debug\Cineplex.Domain.Fulfillment.pdb
