@@ -1,6 +1,5 @@
 ﻿using System;
 using System.Collections.Generic;
-using System.Linq;
 using System.Web.Http;
 using Cineplex.Domain.Customer;
 using FlyweightObjects;
@@ -19,7 +18,7 @@ namespace Cineplex.Services.Customer.Controllers
             );
         }
 
-        public IEnumerable<LightweightCustomer> Get()
+        public IEnumerable<CustomerAccount> Get()
         {
             using (var dc = GetDataContext())
             {
@@ -27,11 +26,11 @@ namespace Cineplex.Services.Customer.Controllers
                     .Select()
                     .From<CustomerAccount>();
 
-                return dc.Select(query).Select(c => new LightweightCustomer(c)).ToList();
+                return dc.Select(query);
             }
         }
 
-        public IEnumerable<LightweightCustomer> Get(string searchCriteria)
+        public IEnumerable<CustomerAccount> Get(string searchCriteria)
         {
             using (var dc = GetDataContext())
             {
@@ -42,11 +41,11 @@ namespace Cineplex.Services.Customer.Controllers
                     .Or(CustomerAccount.Properties.LastName.Contains(searchCriteria))
                     .Or(CustomerAccount.Properties.CompanyName.Contains(searchCriteria));
 
-                return dc.Select(query).Select(c => new LightweightCustomer(c)).ToList();
+                return dc.Select(query);
             }
         }
 
-        public LightweightCustomer Get(int id)
+        public CustomerAccount Get(int id)
         {
             using (var dc = GetDataContext())
             {
@@ -56,8 +55,7 @@ namespace Cineplex.Services.Customer.Controllers
                     .Where(CustomerAccount.Properties.Id == id);
 
                 var customer = dc.Select(query).ToSingle();
-
-                return customer != null ? new LightweightCustomer(customer) : null;
+                return customer ?? null;
             }
         }
     }

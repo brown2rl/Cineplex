@@ -51,7 +51,6 @@
     <Compile Include="Generated\CustomerSegment.cs" />
     <Compile Include="Generated\CustomerTelephone.cs" />
     <Compile Include="Generated\EmailAddress.cs" />
-    <Compile Include="LightweightCustomer.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup />

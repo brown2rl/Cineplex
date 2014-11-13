@@ -1,8 +1,6 @@
 ﻿using System;
 using System.Collections.Generic;
-using System.Linq;
 using System.Web.Http;
-using Cineplex.Domain.Product;
 using FlyweightObjects;
 
 namespace Cineplex.Services.Product.Controllers
@@ -19,7 +17,7 @@ namespace Cineplex.Services.Product.Controllers
             );
         }
 
-        public IEnumerable<LightweightProduct> Get()
+        public IEnumerable<Domain.Product.Product> Get()
         {
             using (var dc = GetDataContext())
             {
@@ -27,11 +25,11 @@ namespace Cineplex.Services.Product.Controllers
                     .Select()
                     .From<Domain.Product.Product>();
 
-                return dc.Select(query).Select(p => new LightweightProduct(p)).ToList();
+                return dc.Select(query);
             }
         }
 
-        public IEnumerable<LightweightProduct> Get(string searchCriteria)
+        public IEnumerable<Domain.Product.Product> Get(string searchCriteria)
         {
             using (var dc = GetDataContext())
             {
@@ -41,11 +39,11 @@ namespace Cineplex.Services.Product.Controllers
                     .Where(Domain.Product.Product.Properties.ShortName.Contains(searchCriteria))
                     .Or(Domain.Product.Product.Properties.Descriptioin.Contains(searchCriteria));
 
-                return dc.Select(query).Select(c => new LightweightProduct(c)).ToList();
+                return dc.Select(query);
             }
         }
 
-        public LightweightProduct Get(int id)
+        public Domain.Product.Product Get(int id)
         {
             using (var dc = GetDataContext())
             {
@@ -55,8 +53,7 @@ namespace Cineplex.Services.Product.Controllers
                     .Where(Domain.Product.Product.Properties.Id == id);
                 
                 var product = dc.Select(query).ToSingle();
-                
-                return product != null ? new LightweightProduct(product) : null;
+                return product ?? null;
             }
         }
     }

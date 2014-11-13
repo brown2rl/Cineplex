@@ -51,7 +51,6 @@
     <Compile Include="Generated\ProductSegment.cs" />
     <Compile Include="Generated\Supplier.cs" />
     <Compile Include="Generated\SupplierProduct.cs" />
-    <Compile Include="LightweightProduct.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
